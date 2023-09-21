@@ -116,7 +116,7 @@ p {
 }
 
 .btn-primary:hover, .btn-primary:focus {
-    background-color: var(--dark-blue);
+    background-color: hsl(243, 75%, 67%);
 }
 
 .btn-secondary {
@@ -126,7 +126,7 @@ p {
 }
 
 .btn-secondary:hover, .btn-secondary:focus, .btn-change:hover, .btn-change:focus {
-    color: var(--dark-blue);
+    color: hsl(243, 75%, 67%);
 }
 
 footer {
